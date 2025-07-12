@@ -5,4 +5,4 @@
 
 **Code Availability:**  
 This repository will be made public after the acceptance of our paper " Differentiable Collision-Supervised Tooth Arrangement Network
-    with a Decoupling Perspective" at TVCG.
+    with a Decoupling Perspective".
